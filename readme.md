@@ -23,3 +23,6 @@ npm run build
 ```
 
 You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations
+
+Github Pages
+https://tanerix07.github.io/manage_landing_page/
